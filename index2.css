@@ -1,0 +1,32 @@
+*{
+    text-align: center;
+    background-color: #1a2634;
+    color: #ff4949;
+}
+input{
+    padding: 20px;
+    width: 50%;
+    font-size: 20px;
+
+
+}
+button{
+    background-color: #ff4949;
+    border-color:#ff4949;
+    color: white;
+    border-bottom: none;
+    border-right: none;
+    padding: 20px;
+    font-size: 15px;
+    font-weight: bold;
+    border-radius: 20px;
+
+}
+h2{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.bin,.oct,.hex,.dec{
+    padding: 20px;
+}
